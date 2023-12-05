@@ -1,9 +1,9 @@
-baseURL = '/'
+baseURL = 'https://boebelix.github.io/iot-workshop-doc/'
 title = 'IoT Workshop'
 theme = "hugo-theme-learn"
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
-disableLandingPage=true
+disableLandingPage = true
 
 [params]
   # "red", "blue", "green".
