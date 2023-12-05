@@ -3,6 +3,7 @@ title = 'IoT Workshop'
 theme = "hugo-theme-learn"
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
+disableLandingPage=true
 
 [params]
   # "red", "blue", "green".
