@@ -1,4 +1,4 @@
-baseURL = 'https://boebelix.github.io/iot-workshop-doc/'
+baseURL = '/'
 title = 'IoT Workshop'
 theme = "hugo-theme-learn"
 defaultContentLanguage = 'de'
