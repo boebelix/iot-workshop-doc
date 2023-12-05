@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = true
 home = [ "HTML", "RSS", "JSON"]
 
 [environment]
-  baseURL = "https://boebelix.github.io/iot-workshop-doc"
+  baseURL = "https://boebelix.github.io/iot-workshop-doc/"
   environment = "production"
 
 [languages]
