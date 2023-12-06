@@ -1,11 +1,12 @@
 baseURL = 'https://boebelix.github.io/'
 relativeURLs = true
 canonifyurls = true
+
 title = 'IoT Workshop'
 theme = "hugo-theme-learn"
+
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
-disableLandingPageButton = true
 
 [params]
   # "red", "blue", "green".
