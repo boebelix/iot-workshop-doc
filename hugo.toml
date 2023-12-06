@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://boebelix.github.io/iot-workshop-doc/'
 relativeURLs = true
 title = 'IoT Workshop'
 theme = "hugo-theme-learn"
