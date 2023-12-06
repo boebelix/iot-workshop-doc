@@ -1,5 +1,6 @@
-baseURL = 'https://boebelix.github.io/iot-workshop-doc/'
-relativeURLs = true
+baseURL = 'https://boebelix.github.io/'
+# relativeURLs = true
+canonifyurls = true
 title = 'IoT Workshop'
 theme = "hugo-theme-learn"
 defaultContentLanguage = 'de'
